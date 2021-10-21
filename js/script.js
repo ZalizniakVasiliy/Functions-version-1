@@ -13,4 +13,4 @@ function getNumberInExponent(number, exponentNumb = 1) {
 }
 
 const result = getNumberInExponent(userNumber, exponentUserNumber);
-console.log(result);
+alert(result);
